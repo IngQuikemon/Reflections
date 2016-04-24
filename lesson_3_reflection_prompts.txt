@@ -22,11 +22,13 @@ it. Based on those descriptions, I would use each one of those accordingly.
 
 Q:What is the benefit of having a copy of the last known state of the remote
 stored locally?
-A:
+A:So that I can do comparisons and do merge accordingly.
 
 Q:How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-A:
+A: Probably using another cloud server (like google drive, onedrive or similar).
+The challenges would be the revision and log history of what changes have been
+committed on the file as well as controlling the changes on the main repository.
 
 Q:When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
